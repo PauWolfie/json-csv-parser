@@ -58,8 +58,8 @@ pip install pandas
 ```
 
 ## Folder structure
--excel: Contains Excel files for conversion (input for `excelToJson.py`, output for `jsonToExcel.py`).
--json: Contains JSON files for conversion (input for `jsonToExcel.py`, output for `excelToJson.py`).
+- excel: Contains Excel files for conversion (input for `excelToJson.py`, output for `jsonToExcel.py`).
+- json: Contains JSON files for conversion (input for `jsonToExcel.py`, output for `excelToJson.py`).
 Feel free to customize the folder names or file extensions based on your preferences.
 
 ## Notes
