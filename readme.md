@@ -66,6 +66,6 @@ Feel free to customize the folder names or file extensions based on your prefere
 Ensure that your Excel files have a consistent structure, with a 'Key' and 'Value' column for successful conversion.
 
 ## Author
-[PauWolfie]
+[Pau Wolfie](https://github.com/PauWolfie)
 
 Feel free to reach out for any questions or improvements!
