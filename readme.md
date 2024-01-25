@@ -34,3 +34,38 @@ The `jsonToExcel.py` script performs the reverse conversion:
 
 ```bash
 python excelToJson.py
+```
+### JSON to Excel Conversion
+
+1. Place your JSON files in the `json` folder.
+2. Run the `jsonToExcel.py` script.
+3. Excel files will be generated in the `excel` folder.
+
+```bash
+python jsonToExcel.py
+```
+
+## Dependencies
+The scripts utilize the following Python libraries:
+
+- pandas
+- json
+- os
+
+Install the required dependencies using:
+```bash
+pip install pandas
+```
+
+## Folder structure
+-excel: Contains Excel files for conversion (input for `excelToJson.py`, output for `jsonToExcel.py`).
+-json: Contains JSON files for conversion (input for `jsonToExcel.py`, output for `excelToJson.py`).
+Feel free to customize the folder names or file extensions based on your preferences.
+
+## Notes
+Ensure that your Excel files have a consistent structure, with a 'Key' and 'Value' column for successful conversion.
+
+## Author
+[PauWolfie]
+
+Feel free to reach out for any questions or improvements!
